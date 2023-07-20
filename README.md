@@ -1,5 +1,5 @@
 ### Hi there 👋
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+
 
 <!--
 **ArtemVlasov2009/ArtemVlasov2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
