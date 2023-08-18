@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/artem_vlasov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="artem_vlasov" height="30" width="40" /></a>
+<a href="https://discord.gg/kouqiuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kouqiuzz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
