@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">I developer from Ukraine</h3>
-- 🌱 I’m currently learning **Python, JavaScript**
+🌱 I’m currently learning **Python, JavaScript**
 
-- 📫 How to reach me **av3411261@gmail.com**
+📫 How to reach me **av3411261@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
