@@ -3,7 +3,7 @@
 🌱 I’m currently learning **Python, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
-📫 How to reach me **av3411261@gmail.com**
+📫 How to reach me av3411261@gmail.com
 <p align="left">
 </p>
 
