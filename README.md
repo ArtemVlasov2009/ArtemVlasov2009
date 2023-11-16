@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Artem 👋</h1> <h3 align="center">A developer from Ukraine</h3> <p align="center"> <a href="https://github.com/artemvlasov2009">Github</a> • <a href="mailto:av3411261@gmail.com">Email</a> </p>
+<h1 align="center">Hi there👋</h1> <h3 align="center">A developer from Ukraine</h3> <p align="center"> <a href="https://github.com/artemvlasov2009">Github</a> • <a href="mailto:av3411261@gmail.com">Email</a> </p>
 
     🌱 I'm currently learning Python and JavaScript
 
