@@ -5,9 +5,6 @@ Hi 👋 My name is Artem Vlasov
 * ✉️  You can contact me at [av3411261@gmail.com](mailto:av3411261@gmail.com)
 * 🧠  I'm learning Flask, JavaScript, Python, MicroPython
 
-<a href="https://www.github.com/цы" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/цы?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
