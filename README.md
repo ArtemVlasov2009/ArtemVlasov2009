@@ -1,4 +1,4 @@
-Hi 👋 My name is Artem Vlasov
+Hello 👋 
 =============================
 
 * 🌍  I'm based in Dnipro
