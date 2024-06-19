@@ -1,10 +1,5 @@
 Hello 👋 
 =============================
-
-* 🌍  I'm based in Dnipro
-* ✉️  You can contact me at [av3411261@gmail.com](mailto:av3411261@gmail.com)
-* 🧠  I'm learning Flask, JavaScript, Python, MicroPython
-
 ### Skills
 
 
