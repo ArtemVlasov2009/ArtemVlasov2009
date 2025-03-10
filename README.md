@@ -30,12 +30,10 @@
 
 ## Top Projects 🌟
 
-- [Online shop on Flask](https://github.com/ArtemVlasov2009/Shop_Project)
-  A fully functional online store built with Flask. Implements user authentication, product management, shopping cart, and order processing.
-
 - [Django QR Code Generator](https://github.com/ArtemVlasov2009/DJANGO_QRCODE_GENERATOR)
   An app to generate customizable QR codes using Django. Allows users to create QR codes with different sizes, colors, and embedded data.
-
+- [Online shop on Flask](https://github.com/ArtemVlasov2009/Shop_Project)
+  A fully functional online store built with Flask. Implements user authentication, product management, shopping cart, and order processing.
 - [The Tower](https://github.com/ArtemVlasov2009/TheTower)
   A JavaScript-based platformer game for web browsers. Features multiple levels, enemies, and power-ups.
 
