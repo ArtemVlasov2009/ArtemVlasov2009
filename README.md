@@ -29,6 +29,7 @@
 ---
 
 ## Top Projects 🌟
+
 - **[Django QR Code Generator](https://github.com/ArtemVlasov2009/DJANGO_QRCODE_GENERATOR)** 📸
   An app to generate customizable QR codes using Django. Allows users to create QR codes with different sizes, colors, and embedded data.
 
@@ -64,6 +65,7 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
