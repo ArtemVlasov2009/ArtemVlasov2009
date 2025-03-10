@@ -31,13 +31,13 @@
 ## Top Projects 🌟
 
 - [Online shop on Flask](https://github.com/ArtemVlasov2009/Shop_Project)  
-  A fully functional online store built with Flask.
-  
+  A fully functional online store built with Flask. Implements user authentication, product management, shopping cart, and order processing.
+
 - [Django QR Code Generator](https://github.com/ArtemVlasov2009/DJANGO_QRCODE_GENERATOR)  
-  An app to generate customizable QR codes using Django.
-  
+  An app to generate customizable QR codes using Django. Allows users to create QR codes with different sizes, colors, and embedded data.
+
 - [The Tower](https://github.com/ArtemVlasov2009/TheTower)  
-  A JavaScript-based platformer game for web browsers.
+  A JavaScript-based platformer game for web browsers. Features multiple levels, enemies, and power-ups.
 
 ---
 
@@ -55,6 +55,9 @@
 <div align="center">
   <a href="https://t.me/kouqiuzz">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/channels/@kouqiuzz">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
