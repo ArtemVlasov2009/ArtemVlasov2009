@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30"/>
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white" alt="MicroPython" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL" height="30"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/>
 </div>
 
@@ -30,13 +31,13 @@
 
 ## Top Projects 🌟
 
-- [Online shop on Flask](https://github.com/ArtemVlasov2009/Shop_Project)  
+- [Online shop on Flask](https://github.com/ArtemVlasov2009/Shop_Project)
   A fully functional online store built with Flask. Implements user authentication, product management, shopping cart, and order processing.
 
-- [Django QR Code Generator](https://github.com/ArtemVlasov2009/DJANGO_QRCODE_GENERATOR)  
+- [Django QR Code Generator](https://github.com/ArtemVlasov2009/DJANGO_QRCODE_GENERATOR)
   An app to generate customizable QR codes using Django. Allows users to create QR codes with different sizes, colors, and embedded data.
 
-- [The Tower](https://github.com/ArtemVlasov2009/TheTower)  
+- [The Tower](https://github.com/ArtemVlasov2009/TheTower)
   A JavaScript-based platformer game for web browsers. Features multiple levels, enemies, and power-ups.
 
 ---
