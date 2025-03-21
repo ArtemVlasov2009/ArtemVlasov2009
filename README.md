@@ -1,11 +1,5 @@
 ## Hi, I'm Artem! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F78E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+🌟;I+love+coding+and+problem-solving." alt="Typing SVG" />
-</p>
-
----
-
 ## My Tech Stack 🛠️
 
 ### Languages
@@ -64,8 +58,3 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
